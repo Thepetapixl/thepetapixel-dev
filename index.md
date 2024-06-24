@@ -2,7 +2,7 @@
 title: Hello, My name is Apurv Vidhate
 --- 
 
-<link rel="stylesheet" href="styles.css">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/apurv-vidhate)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Thepetapixl)
