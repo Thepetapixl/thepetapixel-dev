@@ -1,8 +1,6 @@
 ---
-title: Portfolio
----
-
-# Hello, My name is Apurv Vidhate
+title: Hello, My name is Apurv Vidhate
+--- 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/apurv-vidhate)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Thepetapixl)
