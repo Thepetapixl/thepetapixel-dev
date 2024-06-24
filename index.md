@@ -1,5 +1,5 @@
 ---
-title: Portfolio | Apurv Vidhate
+title: Portfolio - Apurv Vidhate
 --- 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/apurv-vidhate)
