@@ -1,8 +1,8 @@
 ---
-title: Welcome to my blog
+title: Portfolio
 ---
 
-# Apurv Vidhate
+# Hello, My name is Apurv Vidhate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/apurv-vidhate)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Thepetapixl)
@@ -61,24 +61,28 @@ Aug 2020 - Jul 2022
 
 ### Cloud-Based Photo Album Web Application
 Oct 2023 - Nov 2023  
-- Engineered a PHP application using Google Cloud Storage API for secure image management.
+-  Engineered a PHP application utilizing the Google Cloud Storage API to enable secure uploading, deletion, and browsing of photographs. An interface displaying a list of stored images, allowing users to download and view photos with a single click, and providing a convenient button to delete images from Google Cloud Storage.
 
 ### Interactive Weather Web Application
 Aug 2023 - Sept 2023  
-- Developed an application with Google Maps API and OpenWeather API for weather data access.
+- Crafted an application with user-friendly features for accessing weather data through city names or map interaction using Google Maps API for location services and the OpenWeather API to fetch weather data, incorporating HTML, CSS, for front- end development and JavaScript for client-side scripting.
 
 ### Cutting Edge Visual Question Answering for Formula 1
 Jan 2023 - May 2023  
-- Created a VQA system for F1 videos using Python and PyTorch, boosting engagement by 40%.
+- Devised a Visual Question Answering (VQA) system for Formula 1 press conference videos using Python, and PyTorch
+boosting non-F1 viewer engagement by 40%.
+- Created a custom dataset class for preprocessing, leveraging PyTorch transforms, seamlessly integrated visual and textual encoders to generate joint feature vectors, deploying an LSTM-based classifier for answer prediction.
+
 
 ### Expalk
 Aug 2022 - Jan 2023  
-- Developed a web app for mentorship and learning using Flask APIs and Firebase.
-- Integrated Agora SDK for video conferencing.
+- Developed a robust web application enabling users to engage in mentorship and learning activities. Individuals can opt to be
+mentors or mentees, fostering skill-sharing and knowledge exchange.
+- Integrated Flask APIs with Firebase for real-time analytics monitoring, providing valuable insights into user behavior and interaction patterns. Additionally, leveraged the Agora SDK for seamless video conferencing capabilities. Used REST APIs and HTML/CSS for the frontend for the platform.
 
 ### Visualization of Digital Elevation Model
 Aug 2021 - Jan 2022  
-- Utilized Python to visualize DEMs with an accuracy of 92.68%.
+- Utilized Python technologies including NumPy, Rasterio, and Matplotlib to implement visualization techniques for Digital Elevation Models (DEM) using GEOTIFF images achieving an impressive accuracy rate of 92.68%. The project employed the Topographic Aspect tool on DEMs to compute slope direction.
 
 ---
 
